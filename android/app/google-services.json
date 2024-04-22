@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1013378152737",
+    "project_id": "bridgme-e3c6c",
+    "storage_bucket": "bridgme-e3c6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013378152737:android:429a3e66c4cd8e98b9a660",
+        "android_client_info": {
+          "package_name": "com.bridgeme.patient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013378152737-jp3to7ma8kmc0lh4p55eh2p5glm23g00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bridgeme.patient",
+            "certificate_hash": "4423277a95235f90ac22e02e04e6523f2adc48a6"
+          }
+        },
+        {
+          "client_id": "1013378152737-5t98ddr3kduu0eag1ukdd0innentvj47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9yThToNdx_A6aL_ENYa8ZvCxP96Uj-M0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013378152737-5t98ddr3kduu0eag1ukdd0innentvj47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
